@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "mobsPerPlayer": 30
+  },
+  "map": {
+    "playerSpawn": {
+      "x": -233,
+      "y": 66,
+      "z": 280,
+      "world": "world"
+    },
+    "world": "world",
+    "mobSpawnLocation": [
+      {
+        "x": -159,
+        "y": 65,
+        "z": 247,
+        "world": "world"
+      },
+      {
+        "x": -160,
+        "y": 65,
+        "z": 313,
+        "world": "world"
+      },
+      {
+        "x": -183,
+        "y": 65,
+        "z": 313,
+        "world": "world"
+      },
+      {
+        "x": -182,
+        "y": 65,
+        "z": 247,
+        "world": "world"
+      }
+    ]
+  }
+}

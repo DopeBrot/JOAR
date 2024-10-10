@@ -1,0 +1,4 @@
+name: JOAR
+version: '${project.version}'
+main: de.nicfx.joar.JOAR
+api-version: '1.21'
